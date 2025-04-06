@@ -16,7 +16,7 @@ window.addEventListener("load", function() {
 	video.autoplay = false;
 	video.loop = false;
 	video.load(); // reload the video with autoplay and loop settings
-	document.getElementById("volume").innerText = video.volume * 100 + "%";
+	// document.getElementById("volume").innerText = video.volume * 100 + "%";
 })
 
 // Play Button: Play the video and update the volume information.  
