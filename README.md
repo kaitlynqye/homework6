@@ -1,2 +1,2 @@
-# homework6
-SI 339 Homework 6
+# hw7-2022
+Starter Code for HW7 - JavaScript basics with Video
